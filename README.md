@@ -10,6 +10,22 @@
   <img src="https://github-profile-trophy.vercel.app?username=liuzhaoze&theme=tokyonight&column=9&no-bg=false&margin-w=5&margin-h=5&no-frame=false" width="825" alt="trophy graph"  />
 </div>
 
+## My works
+
+- 使用 Tianshou 强化学习框架的单/多智能体 Demo / Single/Multi-agent demos using Tianshou RL framework:
+  - [Tianshou-CartPole](https://github.com/liuzhaoze/Tianshou-CartPole)
+  - [Tianshou-MARL](https://github.com/liuzhaoze/Tianshou-MARL)
+- 华电人可能需要的:
+  - 大作业/实验报告的 LaTeX 模板: [NCEPU-report-template](https://github.com/liuzhaoze/NCEPU-report-template)
+  - 使用 Beamer 制作的幻灯片模板: [NCEPU-beamer-template](https://github.com/liuzhaoze/NCEPU-beamer-template)
+- [分布式系统实验室](http://distsys.org.cn/)可能需要的:
+  - 使用 Tianshou 强化学习框架重写的 `cost-aware` 实验代码: [cost-aware](https://github.com/liuzhaoze/cost-aware)
+- 我在研究生阶段做过的 presentation / Presentations I did during my graduate study:
+  - [presentation-1](https://github.com/liuzhaoze/presentation-1)
+  - [presentation-2](https://github.com/liuzhaoze/presentation-2)
+  - [presentation-3](https://github.com/liuzhaoze/presentation-3)
+- 我的本科毕设 / My undergraduate thesis: [WSN-EKF-localization](https://github.com/liuzhaoze/WSN-EKF-localization)
+
 ## My techs
 
 <div align="left">
